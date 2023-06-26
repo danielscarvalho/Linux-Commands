@@ -71,7 +71,7 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 
 ### A Internet é feita de Linux
 
-A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Management Sistems) como o WP (WordPress) por exemplos, são feitos com o [LAMP](https://pt.wikipedia.org/wiki/LAMP) stack, que consiste em um ambiente **L**inux, com WEB server **A**pache, banco de dados relacional **M**ySQL e a linguagem de progamação **P**HP, **P**ython ou **P**erl. Tecnologias abertas e livres. 70% dos sites na Internet usam estas tecnologias: https://w3techs.com/technologies/overview/content_management
+A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Management Sistems) como o WP (WordPress) por exemplos, são feitos com o [LAMP](https://pt.wikipedia.org/wiki/LAMP) stack, que consiste em um ambiente __L__inux, com WEB server __A__pache, banco de dados relacional __M__ySQL e a linguagem de progamação __P__HP, __P__ython ou __P__erl. Tecnologias abertas e livres. +70% dos sites na Internet usam estas tecnologias: https://w3techs.com/technologies/overview/content_management
 
 
 Referências:
