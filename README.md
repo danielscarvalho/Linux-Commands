@@ -31,7 +31,7 @@ Developers vem [adotando](https://www.google.com/search?q=developers+adopting+li
 
 Podemos rodar o Linux no PC com Windows:
 - Usando o Oracle Virtual Box: https://www.virtualbox.org/
-- Usando o WSL2: https://learn.microsoft.com/pt-br/windows/wsl/install
+- Usando o WSL2 (Windows Subsystem for Linux): https://learn.microsoft.com/pt-br/windows/wsl/install
 - Usando um servidor Linux em nuvem (gratuito ou baixo custo)
   - Azure: https://azure.microsoft.com/en-us/free/students/
   - Oracle: https://www.oracle.com/br/cloud/free/
