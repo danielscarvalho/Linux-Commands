@@ -1,5 +1,5 @@
 # Linux-Commands
-Linux Commands reference
+Linux Commands reference: E os mistérios do prompt piscante!
 
 <img src="https://linuxcommand.org/images/Screenshot-Terminal.png" width="600px">
 
