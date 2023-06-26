@@ -69,6 +69,7 @@ Referências:
 - Linux commands Notes for Professionals book: https://books.goalkicker.com/LinuxBook/
 - Bash Notes for Professionals book: https://books.goalkicker.com/BashBook/
 - Vi/Vim cheat sheet: https://i.imgur.com/YLInLlY.png
+- OMG Ubuntu: https://www.omgubuntu.co.uk/
 
 Meme:
 
