@@ -20,7 +20,7 @@ O Linux também roda em supercomputadores, e também a computação em nuvem rod
 
 <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/summit-supercomputer-red-hat-linux.jpg" width="600px">
 
-O Linux foi "inspirado" em sistemas UNIX, e dominou o mercado:
+O Linux foi "inspirado" em sistemas UNIX, e dominou o mercado de servidores e supercomputadores:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Operating_systems_used_on_top_500_supercomputers.svg" width="600px">
 
