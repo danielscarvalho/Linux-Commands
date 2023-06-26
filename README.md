@@ -36,6 +36,10 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 
 ## Tópicos
 
+### Arquitetura
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680630826055/e1dcd139-949b-445b-8044-20cc6208e164.png)
+
 ### Arquivos e Pastas (Diretórios)
 
 ![](https://github.com/danielscarvalho/Linux-Commands/assets/916663/cdbd3d6b-9cb4-47c7-a5d7-009397b2bb0c)
