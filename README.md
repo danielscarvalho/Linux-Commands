@@ -73,7 +73,9 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 
 A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Management Sistems) como o WP (WordPress) por exemplos, são feitos com o [LAMP](https://pt.wikipedia.org/wiki/LAMP) stack, que consiste em um ambiente **Linux**, com WEB server **Apache**, banco de dados relacional **MySQL** e a linguagem de progamação **PHP**, **Python** ou **Perl**. Tecnologias abertas e livres. +70% dos sites na Internet usam estas tecnologias: https://w3techs.com/technologies/overview/content_management
 
-### Papéis do Linux
+## Papéis do Linux
+
+A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e compilado para atender a diversas aplicações:
 
 - Desktop de usuário final
     - Doméstico
@@ -86,7 +88,7 @@ A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Managemen
 - Kiosk
 - IoT (Edge Computing)
 - Serviços de TI
-    - Servidor de Arquivos
+    - Servidor de Arquivose
     - Servidor de mídia
     - Servidor de banco de dados
     - Servidor WEB
@@ -98,10 +100,10 @@ A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Managemen
     - Render
     - Cluster (Server Farm)
     - PABX
-    - Docker
+    - Docker<br>
 Entre outros...
 
-Referências:
+## Referências:
 
 - The Linux Command Line by William Shotts: https://linuxcommand.org/tlcl.php
 - Shell Script Profissional by Aurelio Marinho Jargas: https://www.shellscript.com.br/
@@ -110,6 +112,6 @@ Referências:
 - Vi/Vim cheat sheet: https://i.imgur.com/YLInLlY.png
 - OMG Ubuntu: https://www.omgubuntu.co.uk/
 
-Meme:
+## Meme:
 
 <img src="https://media.makeameme.org/created/no-existe-nuvem.jpg" width="600px">
