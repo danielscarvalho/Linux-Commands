@@ -22,8 +22,7 @@ O Linux também roda em supercomputadores, e também a computação em nuvem rod
 
 O Linux foi baseado em sistemas UNIX, e dominou o mercado:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/640px-Operating_systems_used_on_top_500_supercomputers.svg.png
-" width="600px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg" width="600px">
 
 Podemos rodar o Linux no PC com Windows:
 - Usando o Oracle Virtual Box: https://www.virtualbox.org/
