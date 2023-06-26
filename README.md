@@ -119,3 +119,5 @@ Entre outros...
 ## Meme:
 
 <img src="https://media.makeameme.org/created/no-existe-nuvem.jpg" width="600px">
+<img src="https://gerarmemes.s3.us-east-2.amazonaws.com/memes/f8df6395.webp" width="600px">
+
