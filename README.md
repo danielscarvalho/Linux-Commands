@@ -1,6 +1,9 @@
 # Linux-Commands
 Linux Commands reference
 
+<img src="https://github.com/danielscarvalho/Linux-Commands/assets/916663/63ba13cc-3a8d-4d3a-bd1c-de9450c0e2fc
+" width="600px">
+
 Dicas para os alunos de Ciências dos Dados, Ciências da Computação e Engenharias
 
 Porque aprender Linux?
