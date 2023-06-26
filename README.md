@@ -5,12 +5,13 @@ Linux Commands reference: E os mistérios do prompt piscante!
 
 Dicas para os alunos de Ciências dos Dados, Ciências da Computação e Engenharias
 
-Porque aprender Linux?
+Porque aprender Linux? 🐧️
 - Para aprender sobre como o computador funciona
 - Para ter acesso a todo o potencial de um computador
 - Para ser capáz de utilizar qualquer computador, de supercomputador até um device de IoT
 - Para ser competitivo em oportunidades de trabalho ou projetos
 - Para fazer parte de uma comunidade colaborativa, inovadora e conhecer hackers, engenheiros, developers, cientistas, etc...
+- Para impressionar a mulher amada e encontrar o amor verdadeiro!!
 
 <img src="https://pbs.twimg.com/media/DQB029JVwAALyEu?format=jpg" width="600px">
 
