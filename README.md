@@ -38,7 +38,13 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 
 ### Arquivos e Pastas (Diretórios)
 
+![](![image](https://github.com/danielscarvalho/Linux-Commands/assets/916663/cdbd3d6b-9cb4-47c7-a5d7-009397b2bb0c)
+
 ### Navegação
+
+### Organização (diretórios)
+
+![](https://miro.medium.com/v2/resize:fit:4800/0*bFnHaO8eYpW3dSuz)
 
 ### Sobre o Sistema e Hardware
 
