@@ -22,7 +22,8 @@ O Linux também roda em supercomputadores, e também a computação em nuvem rod
 
 O Linux foi baseado em sistemas UNIX, e dominou o mercado:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/640px-Operating_systems_used_on_top_500_supercomputers.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/640px-Operating_systems_used_on_top_500_supercomputers.svg.png
+" width="600px">
 
 Podemos rodar o Linux no PC com Windows:
 - Usando o Oracle Virtual Box: https://www.virtualbox.org/
@@ -40,17 +41,17 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 
 ### Arquitetura
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680630826055/e1dcd139-949b-445b-8044-20cc6208e164.png)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680630826055/e1dcd139-949b-445b-8044-20cc6208e164.png" width="600px">
 
 ### Arquivos e Pastas (Diretórios)
 
-![](https://github.com/danielscarvalho/Linux-Commands/assets/916663/cdbd3d6b-9cb4-47c7-a5d7-009397b2bb0c)
+<img src="https://github.com/danielscarvalho/Linux-Commands/assets/916663/cdbd3d6b-9cb4-47c7-a5d7-009397b2bb0c" width="600px">
 
 ### Navegação
 
 ### Organização (diretórios)
 
-![](https://miro.medium.com/v2/resize:fit:4800/0*bFnHaO8eYpW3dSuz)
+<img src="https://miro.medium.com/v2/resize:fit:4800/0*bFnHaO8eYpW3dSuz" width="600px">
 
 ### Sobre o Sistema e Hardware
 
@@ -67,4 +68,4 @@ Referências:
 
 Meme:
 
-![](https://media.makeameme.org/created/no-existe-nuvem.jpg)
+<img src="https://media.makeameme.org/created/no-existe-nuvem.jpg" width="600px">
