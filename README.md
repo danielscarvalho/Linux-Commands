@@ -14,11 +14,11 @@ Porque aprender Linux?
 
 O RaspberryPi roda Linux, é um computador menor que um cartão de crédito que custa apenas US$ 15.00
 
-<img src="[https://pbs.twimg.com/media/DQB029JVwAALyEu?format=jpg](https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg)" width="600px">
+<img src="https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg" width="600px">
 
 O Linux também roda em supercomputadores, e também a computação em nuvem roda sobre o Linux:
 
-![](https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/summit-supercomputer-red-hat-linux.jpg)
+<img src="https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/summit-supercomputer-red-hat-linux.jpg" width="600px">
 
 O Linux foi baseado em sistemas UNIX, e dominou o mercado:
 
