@@ -86,9 +86,10 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Ciêntista de Dados
 - Robôs (ROS)
 - Kiosk
+- ATM (bank machine)
 - IoT (Edge Computing)
 - Serviços de TI
-    - Servidor de Arquivose
+    - Servidor de Arquivos
     - Servidor de mídia
     - Servidor de banco de dados
     - Servidor WEB
@@ -102,7 +103,8 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Render (Computação Gráfica)
     - Cluster (Server Farm)
     - PABX
-    - Docker<br>
+    - Docker
+    
 Entre outros...
 
 ## Referências:
