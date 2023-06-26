@@ -9,10 +9,6 @@ Porque aprender Linux?
 - Para ser capáz de utilizar qualquer computador, de supercomputador até um device de IoT
 - Para ser competitivo em oportunidades de trabalho ou projetos
 
-Você pode utilizar e experimentar diversas distribuições Linux, eu uso e recomendo duas para iniciantes:
-  - Ubuntu: https://ubuntu.com
-  - Debian: https://www.debian.org
-
 O RaspberryPi roda Linux, é um computador menor que um cartão de crédito que custa apenas US$ 15.00
 
 ![](https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg)
@@ -32,6 +28,10 @@ Podemos rodar o Linux no PC com Windows:
   - Azure: https://azure.microsoft.com/en-us/free/students/
   - Oracle: https://www.oracle.com/br/cloud/free/
   - Google: https://cloud.google.com/free?hl=pt-br 
+
+Você pode utilizar e experimentar diversas distribuições Linux, eu uso e recomendo duas para iniciantes:
+  - Ubuntu: https://ubuntu.com
+  - Debian: https://www.debian.org
 
 ## Tópicos
 
