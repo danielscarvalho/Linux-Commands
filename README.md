@@ -22,9 +22,12 @@ O Linux foi baseado em sistemas UNIX, e dominou o mercado:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/640px-Operating_systems_used_on_top_500_supercomputers.svg.png)
 
 Podemos rodar o Linux no PC com Windows:
-- Usando o Oracle Virtual Box
-- Usando o WSL2
+- Usando o Oracle Virtual Box: https://www.virtualbox.org/
+- Usando o WSL2: https://learn.microsoft.com/pt-br/windows/wsl/install
 - Usando um servidor Linux em nuvem (gratuito ou baixo custo)
+  - Azure: https://azure.microsoft.com/en-us/free/students/
+  - Oracle: https://www.oracle.com/br/cloud/free/
+  - Google: https://cloud.google.com/free?hl=pt-br 
 
 ## Tópicos
 
