@@ -8,7 +8,7 @@ Porque aprender Linux?
 - Para ter acesso a todo o potencial de um computador
 - Para ser capáz de utilizar qualquer computador, de super computador até um device de IoT
 
-O RaspberryPi roda Linux, é um computador menor que um cartão de crédito.
+O RaspberryPi roda Linux, é um computador menor que um cartão de crédito que custa US$ 15.00
 
 ![](https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg)
 
