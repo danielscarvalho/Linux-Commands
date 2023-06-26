@@ -29,7 +29,7 @@ Podemos rodar o Linux no PC com Windows:
   - Oracle: https://www.oracle.com/br/cloud/free/
   - Google: https://cloud.google.com/free?hl=pt-br 
 
-Você pode utilizar e experimentar diversas distribuições Linux, eu uso e recomendo duas para iniciantes:
+Há diversas distribuições Linux para propósitos distintos, podemos utilizar e experimenta-las, recomendo duas distribuições para iniciantes:
   - Ubuntu: https://ubuntu.com
   - Debian: https://www.debian.org
 
