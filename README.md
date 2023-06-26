@@ -36,6 +36,10 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
   - Ubuntu: https://ubuntu.com
   - Debian: https://www.debian.org
 
+[Marketshare](https://w3techs.com/blog/entry/ubuntu_became_the_most_popular_linux_distribution_for_web_servers) das distribuições Linux:
+<img src="https://w3techs.com/pictures/os-linux-ms-1605.png" width="300px">
+
+
 ## Tópicos
 
 ### Arquitetura
