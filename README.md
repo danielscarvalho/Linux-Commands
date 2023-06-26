@@ -68,6 +68,7 @@ Referências:
 - Shell Script Profissional by Aurelio Marinho Jargas: https://www.shellscript.com.br/
 - Linux commands Notes for Professionals book: https://books.goalkicker.com/LinuxBook/
 - Bash Notes for Professionals book: https://books.goalkicker.com/BashBook/
+- Vi/Vim Cheat sheet: https://i.imgur.com/YLInLlY.png
 
 Meme:
 
