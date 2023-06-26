@@ -10,6 +10,8 @@ Porque aprender Linux?
 - Para ser competitivo em oportunidades de trabalho ou projetos
 - Para fazer parte de uma comunidade colaborativa, inovadora e conhecer hackers, engenheiros, developers, cientistas, etc...
 
+![](https://pbs.twimg.com/media/DQB029JVwAALyEu?format=jpg)
+
 O RaspberryPi roda Linux, é um computador menor que um cartão de crédito que custa apenas US$ 15.00
 
 ![](https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg)
@@ -62,3 +64,7 @@ Referências:
 - Shell Script Profissional by Aurelio Marinho Jargas: https://www.shellscript.com.br/
 - Linux commands Notes for Professionals book: https://books.goalkicker.com/LinuxBook/
 - Bash Notes for Professionals book: https://books.goalkicker.com/BashBook/
+
+Meme:
+
+![](https://media.makeameme.org/created/no-existe-nuvem.jpg)
