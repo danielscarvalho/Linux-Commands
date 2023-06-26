@@ -37,7 +37,7 @@ Podemos rodar o Linux no PC com Windows:
   - Oracle: https://www.oracle.com/br/cloud/free/
   - Google: https://cloud.google.com/free?hl=pt-br 
 
-> O SO da Apple (Mac) é uma derivação do UNIX Free BSD, ou seja, já tem CLI Bash e a estrutura muito parecida com a do Linux, os developers usam o Mac aos montes!!
+> O SO (Sistema Operacional) da Apple ([MacOS](https://www.apple.com/br/macos/ventura/)) é uma derivação do UNIX Free BSD, ou seja, já tem CLI Bash e a estrutura muito parecida com a do Linux, os developers usam o Mac aos montes!!
 
 Há diversas distribuições Linux para propósitos distintos, podemos utilizar e experimenta-las, recomendo duas distribuições para iniciantes:
   - Ubuntu: https://ubuntu.com
@@ -68,6 +68,11 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 ### Instalação de programas
 
 ### Acessos e usuários
+
+### A Internet é feita de Linux
+
+A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Management Sistems) como o WP (WordPress) por exemplos, são feitos com o [LAMP](https://pt.wikipedia.org/wiki/LAMP) stack, que consiste em um ambiente **L**inux, com WEB server **A**pache, banco de dados relacional **M**ySQL e a linguagem de progamação **P**HP, **P**ython ou **P**erl. Tecnologias abertas e livres. 70% dos sites na Internet usam estas tecnologias: https://w3techs.com/technologies/overview/content_management
+
 
 Referências:
 
