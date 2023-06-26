@@ -73,7 +73,7 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 
 A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Management Sistems) como o WP (WordPress) por exemplos, são feitos com o [LAMP](https://pt.wikipedia.org/wiki/LAMP) stack, que consiste em um ambiente **Linux**, com WEB server **Apache**, banco de dados relacional **MySQL** e a linguagem de progamação **PHP**, **Python** ou **Perl**. Tecnologias abertas e livres. +70% dos sites na Internet usam estas tecnologias: https://w3techs.com/technologies/overview/content_management
 
-### Papeis do Linux
+### Papéis do Linux
 
 - Desktop de usuário final
     - Doméstico
