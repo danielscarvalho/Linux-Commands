@@ -28,6 +28,11 @@ Developers vem [adotando](https://www.google.com/search?q=developers+adopting+li
 
 ![image](https://github.com/danielscarvalho/Linux-Commands/assets/916663/45fde545-69e8-4c7e-9af0-73c447e4c20a)
 
+O sistema [Android](https://canaltech.com.br/android/android-e-linux-entenda-essa-questao-de-uma-vez-por-todas-230227/) também usa o kernel do Linux, ou seja, há bilhões de usuários do Linux que usam o smartphone do Google, _3.6 bilhões de usuários em 2023, o que representa 49.11% dos smartphones._ :
+
+<img src="https://t.ctcdn.com.br/7S1JGNNRU-T7M8ik1wXG6PJ9pbo=/660x0/smart/filters:format(webp)/i631531.jpeg" width="600px">
+
+> Outro detalhe importante. Os usuário não instalam e configuram o sistema operacional. Ele já vem instalado de fábrica ou pela empresa, faculdade que fornece o equipamento.
 
 Podemos rodar o Linux no PC com Windows:
 - Usando o Oracle Virtual Box: https://www.virtualbox.org/
