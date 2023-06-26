@@ -4,7 +4,7 @@ Linux Commands reference
 Dicas para os alunos de Ciências dos Dados, Ciências da Computação e Engenharias
 
 Porque aprender Linux?
-- Para aprender sobre como o computador funcina
+- Para aprender sobre como o computador funciona
 - Para ter acesso a todo o potencial de um computador
 - Para ser capáz de utilizar qualquer computador, de super computador até um device de IoT
 - Para ser competitivo em oportunidades de trabalho
