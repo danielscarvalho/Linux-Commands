@@ -21,6 +21,11 @@ O Linux foi baseado em sistemas UNIX, e dominou o mercado:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/640px-Operating_systems_used_on_top_500_supercomputers.svg.png)
 
+Podemos rodar o Linux no PC com Windows:
+- Usando o Oracle Virtual Box
+- Usando o WSL2
+- Usando um servidor Linux em nuvem (gratuito ou baixo custo)
+
 ## Tópicos
 
 ### Arquivos e Pastas (Diretórios)
