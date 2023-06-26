@@ -10,7 +10,7 @@ Porque aprender Linux?
 
 O RaspberryPi roda Linux, é um computador menor que um cartão de crédito.
 
-![](https://assets.raspberrypi.com/static/51035ec4c2f8f630b3d26c32e90c93f1/2b8d7/zero2-hero.webp)
+![]([https://assets.raspberrypi.com/static/51035ec4c2f8f630b3d26c32e90c93f1/2b8d7/zero2-hero.webp](https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg)
 
 O Linux também roda em super computadores e também a computação em nuvem roda sobre o Linux:
 
