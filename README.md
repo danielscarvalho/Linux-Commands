@@ -7,7 +7,7 @@ Porque aprender Linux?
 - Para aprender sobre como o computador funciona
 - Para ter acesso a todo o potencial de um computador
 - Para ser capáz de utilizar qualquer computador, de supercomputador até um device de IoT
-- Para ser competitivo em oportunidades de trabalho
+- Para ser competitivo em oportunidades de trabalho ou projetos
 
 O RaspberryPi roda Linux, é um computador menor que um cartão de crédito que custa apenas US$ 15.00
 
