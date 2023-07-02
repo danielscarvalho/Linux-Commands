@@ -139,6 +139,7 @@ https://www.zenarmor.com/docs/network-basics/types-of-servers
 
 ## Inspiração:
 
+- Linux Complete, by Loren E. Redding: https://a.co/d/39FU3KX
 - https://amigoscode.com/p/linux
 - https://www.youtube.com/watch?v=ZtqBQ68cfJc
 - https://www.shortform.com/best-books/genre/best-unix-books-of-all-time
