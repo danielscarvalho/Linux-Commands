@@ -57,34 +57,6 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 [Marketshare](https://w3techs.com/technologies/details/os-linux) das distribuições Linux:<br>
 ![image](https://github.com/danielscarvalho/Linux-Commands/assets/916663/adc83e20-99ee-4858-88b1-4144480a2fc5)
 
-
-## Tópicos
-
-### Arquitetura
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680630826055/e1dcd139-949b-445b-8044-20cc6208e164.png" width="600px">
-
-### CLI (Command Line Interface) 
-
-<img src="https://pbs.twimg.com/media/Fz3eQUwXoAALzYH?format=jpg" width="600px">
-
-### Arquivos e Pastas (Diretórios)
-
-<img src="https://github.com/danielscarvalho/Linux-Commands/assets/916663/cdbd3d6b-9cb4-47c7-a5d7-009397b2bb0c" width="600px">
-
-### Navegação
-
-
-### Organização (diretórios)
-
-<img src="https://miro.medium.com/v2/resize:fit:4800/0*bFnHaO8eYpW3dSuz" width="600px">
-
-### Sobre o Sistema e Hardware
-
-### Instalação de programas
-
-### Acessos e usuários
-
 ### A Internet é feita de Linux
 
 A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Management Sistems) como o WP (WordPress) por exemplos, são feitos com o [LAMP](https://pt.wikipedia.org/wiki/LAMP) stack, que consiste em um ambiente **Linux**, com WEB server **Apache**, banco de dados relacional **MySQL** e a linguagem de progamação **PHP**, **Python** ou **Perl**. Tecnologias abertas e livres. +70% dos sites na Internet usam estas tecnologias: https://w3techs.com/technologies/overview/content_management
@@ -123,6 +95,33 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Docker
     
 Entre outros...
+
+## Tópicos
+
+### Arquitetura
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680630826055/e1dcd139-949b-445b-8044-20cc6208e164.png" width="600px">
+
+### CLI (Command Line Interface) 
+
+<img src="https://pbs.twimg.com/media/Fz3eQUwXoAALzYH?format=jpg" width="600px">
+
+### Arquivos e Pastas (Diretórios)
+
+<img src="https://github.com/danielscarvalho/Linux-Commands/assets/916663/cdbd3d6b-9cb4-47c7-a5d7-009397b2bb0c" width="600px">
+
+### Navegação
+
+
+### Organização (diretórios)
+
+<img src="https://miro.medium.com/v2/resize:fit:4800/0*bFnHaO8eYpW3dSuz" width="600px">
+
+### Sobre o Sistema e Hardware
+
+### Instalação de programas
+
+### Acessos e usuários
 
 ## Referências:
 
