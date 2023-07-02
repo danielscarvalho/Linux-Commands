@@ -137,6 +137,12 @@ https://www.zenarmor.com/docs/network-basics/types-of-servers
 - Vi/Vim cheat sheet: https://i.imgur.com/YLInLlY.png
 - OMG Ubuntu: https://www.omgubuntu.co.uk/
 
+## Inspiração:
+
+- https://amigoscode.com/p/linux
+- https://www.youtube.com/watch?v=ZtqBQ68cfJc
+- https://www.shortform.com/best-books/genre/best-unix-books-of-all-time
+
 ## Meme:
 
 <img src="https://media.makeameme.org/created/no-existe-nuvem.jpg" width="600px">
