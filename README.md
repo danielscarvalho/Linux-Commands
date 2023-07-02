@@ -64,11 +64,16 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680630826055/e1dcd139-949b-445b-8044-20cc6208e164.png" width="600px">
 
+### CLI (Command Line Interface) 
+
+<img src="https://pbs.twimg.com/media/Fz3eQUwXoAALzYH?format=jpg" width="600px">
+
 ### Arquivos e Pastas (Diretórios)
 
 <img src="https://github.com/danielscarvalho/Linux-Commands/assets/916663/cdbd3d6b-9cb4-47c7-a5d7-009397b2bb0c" width="600px">
 
 ### Navegação
+
 
 ### Organização (diretórios)
 
