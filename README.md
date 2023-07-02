@@ -124,6 +124,7 @@ Entre outros...
 - The Linux Command Line by William Shotts: https://linuxcommand.org/tlcl.php
 - Shell Script Profissional by Aurelio Marinho Jargas: https://www.shellscript.com.br/
 - Linux commands Notes for Professionals book: https://books.goalkicker.com/LinuxBook/
+- Linux Pocket Guide: Essential Commands, O’Reilly, Daniel J. Barrett: https://a.co/d/cwqTaz8
 - Bash Notes for Professionals book: https://books.goalkicker.com/BashBook/
 - Vi/Vim cheat sheet: https://i.imgur.com/YLInLlY.png
 - OMG Ubuntu: https://www.omgubuntu.co.uk/
