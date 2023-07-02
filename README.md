@@ -96,6 +96,9 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     
 Entre outros...
 
+<img src="https://www.zenarmor.com/docs/assets/images/types-of-servers-507a1970e9401e3fc59727d0fd7dde95.png" width="600px">
+https://www.zenarmor.com/docs/network-basics/types-of-servers
+
 ## Tópicos
 
 ### Arquitetura
