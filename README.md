@@ -77,18 +77,19 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
 - ATM (bank machine)
 - IoT (Edge Computing)
 - Serviços de TI
-    - Servidor de Arquivos
+    - Servidor de arquivos
     - Servidor de mídia
     - Servidor de banco de dados
     - Servidor WEB
-    - Servidor de Aplicação
+    - Servidor de aplicação
     - Servidor de Wiki
     - Servidor de E-Commerce
     - Servidor de E-Mail
+    - Servidor de impressão
     - FTP
     - Firewall
     - Proxy
-    - DNS, DHCP, IDS, VPN, LDAP e diversos serviços de rede
+    - DNS, DHCP, IDS, VPN, LDAP, NTP e diversos serviços de rede
     - Render (Computação Gráfica)
     - Cluster (Server Farm)
     - PABX
