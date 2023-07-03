@@ -54,6 +54,11 @@ Há diversas distribuições Linux para propósitos distintos, podemos utilizar 
   - Ubuntu: https://ubuntu.com
   - Debian: https://www.debian.org
 
+Some discussion:
+- [Debian vs Ubuntu: A Detailed Comparison](https://linuxstans.com/debian-vs-ubuntu/)
+- [Linux vs. Windows: A Casual, Realistic Perspective](https://linuxstans.com/linux-vs-windows/)
+  
+
 [Marketshare](https://w3techs.com/technologies/details/os-linux) das distribuições Linux:<br>
 ![image](https://github.com/danielscarvalho/Linux-Commands/assets/916663/adc83e20-99ee-4858-88b1-4144480a2fc5)
 
