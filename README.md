@@ -13,7 +13,7 @@ Porque aprender Linux? 🐧️
 - Para ter acesso a todo o potencial de um computador
 - Para ser capáz de utilizar qualquer computador, de supercomputador até um device de IoT
 - Para ser competitivo em oportunidades de trabalho ou projetos
-- Para fazer parte de uma comunidade colaborativa, inovadora e conhecer hackers, engenheiros, developers, cientistas, etc...
+- Para fazer parte de uma comunidade colaborativa, inovadora e conhecer hackers, engenheiros, developers, cientistas, entusiastas, geeks etc...
 - Para conquistar a mulher amada e encontrar o amor verdadeiro!!
 
 <img src="https://pbs.twimg.com/media/DQB029JVwAALyEu?format=jpg" width="600px">
