@@ -3,7 +3,7 @@ Linux Commands reference: E os mistérios do prompt piscante!
 
 <img src="https://linuxcommand.org/images/Screenshot-Terminal.png" width="600px">
 
-<img src="https://www.facebook.com/photo/?fbid=10160862151809679&set=gm.10159488300458977&idorvanity=19168098976" width="600px">
+<img src="https://scontent.fcgh8-1.fna.fbcdn.net/v/t39.30808-6/357409759_10160862151779679_2547957449343339613_n.jpg" width="600px">
 
 Dicas para os alunos de Ciências dos Dados, Ciências da Computação e Engenharias
 
