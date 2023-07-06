@@ -110,6 +110,9 @@ Entre outros...
 <img src="https://www.zenarmor.com/docs/assets/images/types-of-servers-507a1970e9401e3fc59727d0fd7dde95.png" width="600px">
 https://www.zenarmor.com/docs/network-basics/types-of-servers
 
+<img src="https://pbs.twimg.com/media/F0M-ZcJWcAEZDQn?format=jpg" width="600px">
+
+
 ## Tópicos: Comandos do Linux
 
 ### Arquitetura
