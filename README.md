@@ -149,6 +149,8 @@ https://www.zenarmor.com/docs/network-basics/types-of-servers
 - Bash Notes for Professionals book: https://books.goalkicker.com/BashBook/
 - Vi/Vim cheat sheet: https://i.imgur.com/YLInLlY.png
 - OMG Ubuntu: https://www.omgubuntu.co.uk/
+- Bash Commands Cheat Sheet (RedHat): https://developers.redhat.com/cheat-sheets/bash-shell-cheat-sheet
+- Linux Commands Cheat Sheet (RedHat): https://developers.redhat.com/cheat-sheets/linux-commands-cheat-sheet-old
 
 ## Inspiração:
 
