@@ -30,7 +30,8 @@ Em meados dos anos 2000, trabalhei com [UNIX Solares](https://en.wikipedia.org/w
 
 <img src="https://www.computermuseum.org.uk/pictures/sun_e10000.gif" width="600px">
 
-Sistemas sofisticados mais atuais como da Oracle (que comprou a Sun Microsystem) também usam Linux:
+Sistemas sofisticados mais atuais como da Oracle (que comprou a Sun Microsystem) também usam Linux.<br>
+Oracle ODA X7-2-HA:
 
 <img src="https://www.bsi.uk.com/media/catalog/product/cache/1/image/1280x960/040ec09b1e35df139433887a97daa66f/o/r/oracle_oda_x7.jpg" width="600px">
 
