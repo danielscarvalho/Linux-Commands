@@ -82,6 +82,9 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Negócios
     - Developer
     - Ciêntista de Dados
+    - IA & Machine Learning - Deep Learning (NVIDIA CUDA)
+    - Engenharia e Arquitetura (CAD, CAM)
+    - Modelagem 3D
 - Robôs (ROS)
 - Kiosk
 - ATM (bank machine)
