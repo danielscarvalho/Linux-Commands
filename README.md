@@ -154,6 +154,11 @@ Lista para iniciantes:
 | `find`        | Busca arquivos/diretórios no sistema        | `find / -name arquivo.txt` | Manipulação de Arquivos  |
 | `locate`      | Busca arquivos rapidamente usando um banco de dados | `locate arquivo.txt` | Manipulação de Arquivos  |
 | `wc`          | Conta linhas, palavras e caracteres em arquivos | `wc -l arquivo.txt`    | Manipulação de Arquivos  |
+| `head`        | Exibe as primeiras linhas de um arquivo     | `head -n 10 arquivo.txt` | Manipulação de Arquivos  |
+| `tail`        | Exibe as últimas linhas de um arquivo       | `tail -n 10 arquivo.txt` | Manipulação de Arquivos  |
+| `more`        | Visualiza arquivos página por página (simples) | `more arquivo.txt`    | Manipulação de Arquivos  |
+| `vi`          | Editor de texto em modo terminal            | `vi arquivo.txt`         | Manipulação de Arquivos  |
+| `nano`        | Editor de texto simples em terminal         | `nano arquivo.txt`       | Manipulação de Arquivos  |
 | `chmod`       | Altera permissões de arquivos/diretórios    | `chmod 755 script.sh`    | Gerenciamento de Sistema |
 | `chown`       | Altera o proprietário de arquivos/diretórios| `chown user arquivo.txt` | Gerenciamento de Sistema |
 | `chgrp`       | Altera o grupo de arquivos/diretórios       | `chgrp grupo arquivo.txt`| Gerenciamento de Sistema |
@@ -183,7 +188,7 @@ Lista para iniciantes:
 | `whois`       | Consulta informações de domínios            | `whois google.com`       | Redes                    |
 | `history`     | Mostra o histórico de comandos              | `history`                | Utilitários              |
 | `man`         | Exibe o manual de um comando                | `man ls`                 | Utilitários              |
-| `echo`        | Ex/ Exibe texto ou variáveis                    | `echo $PATH`             | Utilitários              |
+| `echo`        | Exibe texto ou variáveis                    | `echo $PATH`             | Utilitários              |
 | `clear`       | Limpa a tela do terminal                    | `clear`                  | Utilitários              |
 | `alias`       | Cria atalhos para comandos                  | `alias ll='ls -l'`       | Utilitários              |
 
@@ -208,6 +213,7 @@ Lista para iniciantes:
 
 ## Meme:
 
-<img src="https://media.makeameme.org/created/no-existe-nuvem.jpg" width="600px">
-<img src="https://gerarmemes.s3.us-east-2.amazonaws.com/memes/f8df6395.webp" width="600px">
+<img src="https://cdn.thenewstack.io/media/2022/08/0ae25624-exit-vim-the-arrival-way-6n632sipjag61-1024x692.jpg" width="600px"><br>
+<img src="https://media.makeameme.org/created/no-existe-nuvem.jpg" width="600px"><br>
+<img src="https://gerarmemes.s3.us-east-2.amazonaws.com/memes/f8df6395.webp" width="600px"><br>
 
