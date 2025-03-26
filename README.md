@@ -26,6 +26,10 @@ O Linux também roda em supercomputadores, e também a computação em nuvem rod
 
 <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/summit-supercomputer-red-hat-linux.jpg" width="600px">
 
+Em meados dos anos 2000, trabalhei com UNIX Solares da Sun Microsystems, em servidores E1000 (E10K) entre outros equipamentos. TUDO que aprendi com sistemas UNIX e rede continuam válido no Linux de hoje. É curioso como conhecimento de TI não é tão volátil quanto parece. Os fundamentos de computação são valiosos e de "longa duração".
+
+<img src="https://www.computermuseum.org.uk/pictures/sun_e10000.gif" width="600px">
+
 O Linux foi "inspirado" em sistemas UNIX, e dominou o mercado de servidores e supercomputadores:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Operating_systems_used_on_top_500_supercomputers.svg" width="600px">
