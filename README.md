@@ -101,22 +101,22 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
 - ATM (bank machine)
 - IoT (Edge Computing)
 - Serviços de TI
-    - Servidor de arquivos
+    - Servidor de arquivos (O drive F: da rede...)
     - Servidor de mídia
     - Servidor de banco de dados
     - Servidor WEB
     - Servidor de aplicação
-    - Servidor de Wiki
+    - Servidor de Wiki (Colaboração, Knoledge Base)
     - Servidor de E-Commerce
     - Servidor de E-Mail
     - Servidor de impressão
-    - FTP
-    - Firewall
+    - (S)FTP (Arquivos)
+    - Firewall e Antivírus (Segurança)
     - Proxy
     - DNS, DHCP, IDS, VPN, LDAP, NTP e diversos serviços de rede
-    - Render (Computação Gráfica)
+    - Render Server (Computação Gráfica, vídeos 3D)
     - Cluster (Server Farm)
-    - PABX
+    - PABX, VoIP
     - Docker
 
 > Linux pode ser instalado em computadores antigos, e também em computadores que não suportam Windows 10 ou Windows 11.<br>
@@ -124,11 +124,10 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     
 Entre outros...
 
-<img src="https://www.zenarmor.com/docs/assets/images/types-of-servers-507a1970e9401e3fc59727d0fd7dde95.png" width="600px">
+<img src="https://www.zenarmor.com/docs/assets/images/types-of-servers-507a1970e9401e3fc59727d0fd7dde95.png" width="600px"><br>
 https://www.zenarmor.com/docs/network-basics/types-of-servers
 
 <img src="https://pbs.twimg.com/media/F0M-ZcJWcAEZDQn?format=jpg" width="600px">
-
 
 ## Tópicos: Comandos do Linux
 
