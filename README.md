@@ -181,6 +181,8 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 | `more`        | Visualiza arquivos página por página (simples) | `more arquivo.txt`<br>`more +50 arquivo.txt` | Manipulação de Arquivos  |
 | `vi`          | Editor de texto em modo terminal            | `vi arquivo.txt`<br>`vi +10 arquivo.txt`     | Manipulação de Arquivos  |
 | `nano`        | Editor de texto simples em terminal         | `nano arquivo.txt`<br>`nano -w arquivo.txt`  | Manipulação de Arquivos  |
+| `unzip`       | Extrai arquivos de um arquivo .zip          | `unzip backup.zip`<br>`unzip -d destino backup.zip` | Manipulação de Arquivos  |
+| `file`        | Identifica o tipo de um arquivo             | `file imagem.jpg`<br>`file -b script.sh`     | Manipulação de Arquivos  |
 | `chmod`       | Altera permissões de arquivos/diretórios    | `chmod 755 script.sh`<br>`chmod u+x arquivo` | Gerenciamento de Sistema |
 | `chown`       | Altera o proprietário de arquivos/diretórios| `chown user arquivo.txt`<br>`chown user:group dir` | Gerenciamento de Sistema |
 | `chgrp`       | Altera o grupo de arquivos/diretórios       | `chgrp grupo arquivo.txt`<br>`chgrp -R grupo dir` | Gerenciamento de Sistema |
@@ -201,6 +203,7 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 | `uname`       | Exibe informações sobre o sistema operacional | `uname -a`<br>`uname -r`                   | Gerenciamento de Sistema |
 | `hostname`    | Exibe ou define o nome do host do sistema   | `hostname`<br>`hostname -I`                  | Gerenciamento de Sistema |
 | `sudo`        | Executa comandos com privilégios de administrador | `sudo apt update`<br>`sudo -u user cmd`    | Gerenciamento de Sistema |
+| `whereis`     | Localiza binários, fontes e manuais de comandos | `whereis ls`<br>`whereis -b python`        | Gerenciamento de Sistema |
 | `ping`        | Testa conectividade com outro host          | `ping google.com`<br>`ping -c 4 8.8.8.8`     | Redes                    |
 | `curl`        | Faz requisições HTTP/HTTPS                  | `curl http://example.com`<br>`curl -O http://file.com/file.txt` | Redes                    |
 | `wget`        | Baixa arquivos da web                       | `wget http://example.com/file`<br>`wget -r http://site.com` | Redes              |
@@ -215,6 +218,9 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 | `echo`        | Exibe texto ou variáveis                    | `echo $PATH`<br>`echo "Hello World"`         | Utilitários              |
 | `clear`       | Limpa a tela do terminal                    | `clear`<br>`/usr/bin/clear`                  | Utilitários              |
 | `alias`       | Cria atalhos para comandos                  | `alias ll='ls -l'`<br>`alias cls='clear'`    | Utilitários              |
+| `cal`         | Exibe um calendário no terminal             | `cal`<br>`cal 2025`                         | Utilitários              |
+| `type`        | Mostra o tipo de um comando (binário, alias, etc.) | `type ls`<br>`type cd`                    | Utilitários              |
+
 ## Dicas adicionais:
 
 Alguns comandos úteis do Linux (Bash):
