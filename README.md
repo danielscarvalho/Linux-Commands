@@ -225,6 +225,8 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 
 Alguns comandos úteis do Linux (Bash):
 
+> Pastas e diretórios são a mesma coisa. O sistema de arquivos é organizado de forma hierarquica. Todo arquivo fica em uma pasta. E TUDO no Linux é um arquivo!! 🙀
+
 | Comando                              | Explicação                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------|
 | `find . -name "dados.csv"`           | Busca por um arquivo chamado "dados.csv" no diretório atual e subdiretórios. O ponto (`.`) indica o diretório atual como ponto de partida. |
