@@ -160,6 +160,9 @@ https://www.zenarmor.com/docs/network-basics/types-of-servers
 
 Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 
+> Pastas e diretórios são o mesmo. O sistema de arquivos é organizado de forma hierárquica. Todo arquivo fica em uma pasta. E TUDO no Linux é um arquivo!! 🙀 A pasta inicial é chamada de root (/), é como uma estrutura de árvore de ponta cabeça. 🌳 E root também é o super usuário do SO.
+
+
 | Comando       | Breve Descrição                              | Exemplo                                      | Categoria                |
 |---------------|----------------------------------------------|----------------------------------------------|--------------------------|
 | `ls`          | Lista arquivos e diretórios (equivalente ao `dir`) | `ls -l`<br>`ls -a`                         | Navegação nos Diretórios |
@@ -224,8 +227,6 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 ## Dicas adicionais:
 
 Alguns comandos úteis do Linux (Bash):
-
-> Pastas e diretórios são a mesma coisa. O sistema de arquivos é organizado de forma hierarquica. Todo arquivo fica em uma pasta. E TUDO no Linux é um arquivo!! 🙀
 
 | Comando                              | Explicação                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------|
