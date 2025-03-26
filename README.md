@@ -53,7 +53,7 @@ Podemos rodar o Linux no PC com Windows:
   - Oracle: https://www.oracle.com/br/cloud/free/
   - Google: https://cloud.google.com/free?hl=pt-br 
 
-> O SO (Sistema Operacional) da Apple ([MacOS](https://www.apple.com/br/macos/ventura/)) é uma derivação do UNIX Free BSD, ou seja, já tem CLI Bash e a estrutura muito parecida com a do Linux, os developers usam o Mac aos montes!!
+> O SO (Sistema Operacional) da Apple ([MacOS](https://www.apple.com/br/macos/ventura/)) é uma derivação do UNIX Free BSD, ou seja, já tem CLI Bash (Terminal) e a estrutura muito parecida com a do Linux, os developers e cientistas de dados usam o Mac aos montes!!
 
 Há diversas distribuições Linux para propósitos distintos, podemos utilizar e experimenta-las, recomendo duas distribuições para iniciantes:
   - Ubuntu: https://ubuntu.com
