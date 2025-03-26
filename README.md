@@ -214,6 +214,25 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 | `echo`        | Exibe texto ou variáveis                    | `echo $PATH`<br>`echo "Hello World"`         | Utilitários              |
 | `clear`       | Limpa a tela do terminal                    | `clear`<br>`/usr/bin/clear`                  | Utilitários              |
 | `alias`       | Cria atalhos para comandos                  | `alias ll='ls -l'`<br>`alias cls='clear'`    | Utilitários              |
+## Dicas adicionais:
+
+| Comando                              | Explicação                                                                 |
+|--------------------------------------|---------------------------------------------------------------------------|
+| `find . -name "dados.csv"`           | Busca por um arquivo chamado "dados.csv" no diretório atual e subdiretórios. O ponto (`.`) indica o diretório atual como ponto de partida. |
+| `cat dados.csv \| grep "Rio de Janeiro"` | Exibe o conteúdo do arquivo "dados.csv" e filtra apenas as linhas que contêm "Rio de Janeiro". O pipe (`\|`) conecta a saída de `cat` ao `grep`. |
+| `ls -ld *Insper*`                    | Lista em formato detalhado (`-l`) apenas diretórios (`-d`) cujos nomes correspondam ao padrão "*Insper*" (usa wildcard para combinar nomes como "Insper2023", "ProjetoInsper", etc.). |
+| `mkdir datascience && cd datascience`| Cria um diretório chamado "datascience" e, se bem-sucedido (`&&`), entra nele imediatamente com `cd`. O operador `&&` executa o segundo comando apenas se o primeiro for concluído com sucesso. |
+| `mv infra.txt ~/`                    | Move o arquivo "infra.txt" para o diretório home do usuário (`~` é um atalho para o diretório pessoal, como `/home/user`). |
+| `find /etc -type f \| xargs grep "error"` | Busca todos os arquivos (`-type f`) no diretório `/etc` e usa `xargs` para passar os resultados ao `grep`, que procura a palavra "error" nesses arquivos. |
+| `tar -czf backup.tar.gz /home/user/docs` | Compacta o diretório `/home/user/docs` em um arquivo "backup.tar.gz" usando `tar` com compressão gzip (`-z`), criando (`-c`) e especificando o nome do arquivo (`-f`). |
+| `ps aux \| grep "python" \| awk '{print $2}'` | Lista todos os processos (`ps aux`), filtra os que contêm "python" (`grep`) e extrai apenas o PID (segunda coluna) usando `awk`. Útil para identificar processos específicos. |
+| `du -sh /var/log/* \| sort -hr`      | Calcula o tamanho de cada arquivo/subdiretório em `/var/log` (`du -sh`), ordena os resultados em ordem decrescente (`sort -hr`) para identificar os maiores consumidores de espaço. |
+| `chmod -R 755 /var/www && chown -R www-data:www-data /var/www` | Altera permissões de todos os arquivos em `/var/www` para 755 (`chmod -R`) e define o proprietário e grupo como "www-data" (`chown -R`), comum em servidores web. |
+| `zip -r backup.zip /home/user/docs`  | Compacta o diretório `/home/user/docs` em um arquivo "backup.zip" usando `zip`, incluindo todos os subdiretórios e arquivos recursivamente (`-r`). |
+| `gzip -k dados.csv && mv dados.csv.gz /backup` | Compacta o arquivo "dados.csv" em "dados.csv.gz" com `gzip`, mantendo o original (`-k`), e move o arquivo comprimido para o diretório `/backup`. |
+| `wget -O dados.csv http://example.com/dados.csv` | Baixa o arquivo "dados.csv" de um URL com `wget` e salva com o nome "dados.csv" no diretório atual, usando a opção `-O` para especificar o nome do arquivo de saída. |
+| `curl -s http://api.example.com/data \| grep "status"` | Faz uma requisição HTTP silenciosa (`-s`) com `curl` para um endpoint de API e filtra as linhas que contêm "status" na resposta usando `grep`. |
+| `wget http://example.com/lista.txt && grep -E "\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b" lista.txt` | Baixa um arquivo de texto "lista.txt" com `wget` e usa `grep` com uma expressão regular (`-E`) para listar linhas contendo endereços de e-mail válidos (ex.: "user@domain.com"). |
 
 ## Referências:
 
