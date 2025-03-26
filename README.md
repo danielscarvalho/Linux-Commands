@@ -105,7 +105,7 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Servidor de mídia
     - Servidor de banco de dados
     - Servidor WEB
-    - Servidor de aplicação
+    - Servidor de aplicação (WEB API, Flask, Python, Java, PHP, JavaScript, etc...
     - Servidor de Wiki (Colaboração, Knoledge Base)
     - Servidor de E-Commerce
     - Servidor de E-Mail
