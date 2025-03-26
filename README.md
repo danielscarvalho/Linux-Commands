@@ -141,59 +141,60 @@ https://www.zenarmor.com/docs/network-basics/types-of-servers
 
 Lista para iniciantes:
 
-| Comando       | Breve Descrição                              | Exemplo                  | Categoria                |
-|---------------|----------------------------------------------|--------------------------|--------------------------|
-| `ls`          | Lista arquivos e diretórios (equivalente ao `dir`) | `ls -l`                | Navegação nos Diretórios |
-| `cd`          | Muda o diretório atual                      | `cd /home/user`          | Navegação nos Diretórios |
-| `pwd`         | Mostra o caminho do diretório atual         | `/home/user`             | Navegação nos Diretórios |
-| `mkdir`       | Cria um novo diretório                      | `mkdir novo_dir`         | Manipulação de Arquivos  |
-| `rm`          | Remove arquivos ou diretórios               | `rm arquivo.txt`         | Manipulação de Arquivos  |
-| `cp`          | Copia arquivos ou diretórios                | `cp arquivo.txt copia.txt` | Manipulação de Arquivos  |
-| `mv`          | Move ou renomeia arquivos/diretórios        | `mv arquivo.txt novo.txt`| Manipulação de Arquivos  |
-| `touch`       | Cria um arquivo vazio ou atualiza timestamp | `touch arquivo.txt`      | Manipulação de Arquivos  |
-| `cat`         | Exibe o conteúdo de um arquivo              | `cat arquivo.txt`        | Manipulação de Arquivos  |
-| `less`        | Visualiza arquivos página por página        | `less arquivo.txt`       | Manipulação de Arquivos  |
-| `grep`        | Busca texto em arquivos                     | `grep "texto" arquivo.txt` | Manipulação de Arquivos  |
-| `find`        | Busca arquivos/diretórios no sistema        | `find / -name arquivo.txt` | Manipulação de Arquivos  |
-| `locate`      | Busca arquivos rapidamente usando um banco de dados | `locate arquivo.txt` | Manipulação de Arquivos  |
-| `wc`          | Conta linhas, palavras e caracteres em arquivos | `wc -l arquivo.txt`    | Manipulação de Arquivos  |
-| `head`        | Exibe as primeiras linhas de um arquivo     | `head -n 10 arquivo.txt` | Manipulação de Arquivos  |
-| `tail`        | Exibe as últimas linhas de um arquivo       | `tail -n 10 arquivo.txt` | Manipulação de Arquivos  |
-| `more`        | Visualiza arquivos página por página (simples) | `more arquivo.txt`    | Manipulação de Arquivos  |
-| `vi`          | Editor de texto em modo terminal            | `vi arquivo.txt`         | Manipulação de Arquivos  |
-| `nano`        | Editor de texto simples em terminal         | `nano arquivo.txt`       | Manipulação de Arquivos  |
-| `chmod`       | Altera permissões de arquivos/diretórios    | `chmod 755 script.sh`    | Gerenciamento de Sistema |
-| `chown`       | Altera o proprietário de arquivos/diretórios| `chown user arquivo.txt` | Gerenciamento de Sistema |
-| `chgrp`       | Altera o grupo de arquivos/diretórios       | `chgrp grupo arquivo.txt`| Gerenciamento de Sistema |
-| `ps`          | Lista processos em execução                 | `ps aux`                 | Gerenciamento de Sistema |
-| `kill`        | Encerra um processo por ID                  | `kill 1234`              | Gerenciamento de Sistema |
-| `top`         | Monitora processos em tempo real            | `top`                    | Gerenciamento de Sistema |
-| `htop`        | Monitora processos com interface melhorada  | `htop`                   | Gerenciamento de Sistema |
-| `btop`        | Monitora processos com interface moderna    | `btop`                   | Gerenciamento de Sistema |
-| `free`        | Mostra o uso de memória RAM e swap          | `free -h`                | Gerenciamento de Sistema |
-| `df`          | Mostra o uso do espaço em disco             | `df -h`                  | Gerenciamento de Sistema |
-| `du`          | Calcula o tamanho de arquivos/diretórios    | `du -sh /home`           | Gerenciamento de Sistema |
-| `whoami`      | Mostra o usuário atual                      | `whoami`                 | Gerenciamento de Sistema |
-| `who`         | Mostra usuários logados no sistema          | `who`                    | Gerenciamento de Sistema |
-| `passwd`      | Altera a senha do usuário                   | `passwd`                 | Gerenciamento de Sistema |
-| `apt`         | Gerencia pacotes em sistemas baseados em Debian | `apt install pacote` | Gerenciamento de Sistema |
-| `jobs`        | Lista processos em segundo plano no shell   | `jobs`                   | Gerenciamento de Sistema |
-| `nohup`       | Executa um comando imune a desconexões      | `nohup script.sh &`      | Gerenciamento de Sistema |
-| `uname`       | Exibe informações sobre o sistema operacional | `uname -a`            | Gerenciamento de Sistema |
-| `hostname`    | Exibe ou define o nome do host do sistema   | `hostname`               | Gerenciamento de Sistema |
-| `ping`        | Testa conectividade com outro host          | `ping google.com`        | Redes                    |
-| `curl`        | Faz requisições HTTP/HTTPS                  | `curl http://example.com`| Redes                    |
-| `wget`        | Baixa arquivos da web                       | `wget http://example.com/file` | Redes              |
-| `ifconfig`    | Exibe configurações de rede (obsoleto em alguns sistemas) | `ifconfig`         | Redes                    |
-| `ip`          | Gerencia configurações de rede              | `ip addr`                | Redes                    |
-| `netstat`     | Mostra estatísticas de rede                 | `netstat -tuln`          | Redes                    |
-| `ssh`         | Conecta a um servidor remoto                | `ssh user@host`          | Redes                    |
-| `whois`       | Consulta informações de domínios            | `whois google.com`       | Redes                    |
-| `history`     | Mostra o histórico de comandos              | `history`                | Utilitários              |
-| `man`         | Exibe o manual de um comando                | `man ls`                 | Utilitários              |
-| `echo`        | Exibe texto ou variáveis                    | `echo $PATH`             | Utilitários              |
-| `clear`       | Limpa a tela do terminal                    | `clear`                  | Utilitários              |
-| `alias`       | Cria atalhos para comandos                  | `alias ll='ls -l'`       | Utilitários              |
+| Comando       | Breve Descrição                              | Exemplo                                      | Categoria                |
+|---------------|----------------------------------------------|----------------------------------------------|--------------------------|
+| `ls`          | Lista arquivos e diretórios (equivalente ao `dir`) | `ls -l`<br>`ls -a`                         | Navegação nos Diretórios |
+| `cd`          | Muda o diretório atual                      | `cd /home/user`<br>`cd ..`                   | Navegação nos Diretórios |
+| `pwd`         | Mostra o caminho do diretório atual         | `/home/user`<br>`/etc`                       | Navegação nos Diretórios |
+| `mkdir`       | Cria um novo diretório                      | `mkdir novo_dir`<br>`mkdir -p /tmp/teste`    | Manipulação de Arquivos  |
+| `rm`          | Remove arquivos ou diretórios               | `rm arquivo.txt`<br>`rm -r dir`              | Manipulação de Arquivos  |
+| `cp`          | Copia arquivos ou diretórios                | `cp arquivo.txt copia.txt`<br>`cp -r dir1 dir2` | Manipulação de Arquivos  |
+| `mv`          | Move ou renomeia arquivos/diretórios        | `mv arquivo.txt novo.txt`<br>`mv dir1 /tmp`  | Manipulação de Arquivos  |
+| `touch`       | Cria um arquivo vazio ou atualiza timestamp | `touch arquivo.txt`<br>`touch -t 202301011200 arquivo.txt` | Manipulação de Arquivos  |
+| `cat`         | Exibe o conteúdo de um arquivo              | `cat arquivo.txt`<br>`cat file1.txt file2.txt` | Manipulação de Arquivos  |
+| `less`        | Visualiza arquivos página por página        | `less arquivo.txt`<br>`less +G arquivo.txt`  | Manipulação de Arquivos  |
+| `grep`        | Busca texto em arquivos                     | `grep "texto" arquivo.txt`<br>`grep -r "palavra" dir` | Manipulação de Arquivos  |
+| `find`        | Busca arquivos/diretórios no sistema        | `find / -name arquivo.txt`<br>`find . -type d` | Manipulação de Arquivos  |
+| `locate`      | Busca arquivos rapidamente usando um banco de dados | `locate arquivo.txt`<br>`locate -i ARQUIVO` | Manipulação de Arquivos  |
+| `wc`          | Conta linhas, palavras e caracteres em arquivos | `wc -l arquivo.txt`<br>`wc -w arquivo.txt` | Manipulação de Arquivos  |
+| `head`        | Exibe as primeiras linhas de um arquivo     | `head -n 10 arquivo.txt`<br>`head -n 5 log.txt` | Manipulação de Arquivos  |
+| `tail`        | Exibe as últimas linhas de um arquivo       | `tail -n 10 arquivo.txt`<br>`tail -f log.txt` | Manipulação de Arquivos  |
+| `more`        | Visualiza arquivos página por página (simples) | `more arquivo.txt`<br>`more +50 arquivo.txt` | Manipulação de Arquivos  |
+| `vi`          | Editor de texto em modo terminal            | `vi arquivo.txt`<br>`vi +10 arquivo.txt`     | Manipulação de Arquivos  |
+| `nano`        | Editor de texto simples em terminal         | `nano arquivo.txt`<br>`nano -w arquivo.txt`  | Manipulação de Arquivos  |
+| `chmod`       | Altera permissões de arquivos/diretórios    | `chmod 755 script.sh`<br>`chmod u+x arquivo` | Gerenciamento de Sistema |
+| `chown`       | Altera o proprietário de arquivos/diretórios| `chown user arquivo.txt`<br>`chown user:group dir` | Gerenciamento de Sistema |
+| `chgrp`       | Altera o grupo de arquivos/diretórios       | `chgrp grupo arquivo.txt`<br>`chgrp -R grupo dir` | Gerenciamento de Sistema |
+| `ps`          | Lista processos em execução                 | `ps aux`<br>`ps -ef`                         | Gerenciamento de Sistema |
+| `kill`        | Encerra um processo por ID                  | `kill 1234`<br>`kill -9 5678`                | Gerenciamento de Sistema |
+| `top`         | Monitora processos em tempo real            | `top`<br>`top -u user`                       | Gerenciamento de Sistema |
+| `htop`        | Monitora processos com interface melhorada  | `htop`<br>`htop -u user`                     | Gerenciamento de Sistema |
+| `btop`        | Monitora processos com interface moderna    | `btop`<br>`btop --utf-force`                 | Gerenciamento de Sistema |
+| `free`        | Mostra o uso de memória RAM e swap          | `free -h`<br>`free -m`                       | Gerenciamento de Sistema |
+| `df`          | Mostra o uso do espaço em disco             | `df -h`<br>`df -T`                           | Gerenciamento de Sistema |
+| `du`          | Calcula o tamanho de arquivos/diretórios    | `du -sh /home`<br>`du -h --max-depth=1 dir`  | Gerenciamento de Sistema |
+| `whoami`      | Mostra o usuário atual                      | `whoami`<br>`/usr/bin/whoami`                | Gerenciamento de Sistema |
+| `who`         | Mostra usuários logados no sistema          | `who`<br>`who -u`                            | Gerenciamento de Sistema |
+| `passwd`      | Altera a senha do usuário                   | `passwd`<br>`passwd user`                    | Gerenciamento de Sistema |
+| `apt`         | Gerencia pacotes em sistemas baseados em Debian | `apt install pacote`<br>`apt update`       | Gerenciamento de Sistema |
+| `jobs`        | Lista processos em segundo plano no shell   | `jobs`<br>`jobs -l`                          | Gerenciamento de Sistema |
+| `nohup`       | Executa um comando imune a desconexões      | `nohup script.sh &`<br>`nohup sleep 100 &`   | Gerenciamento de Sistema |
+| `uname`       | Exibe informações sobre o sistema operacional | `uname -a`<br>`uname -r`                   | Gerenciamento de Sistema |
+| `hostname`    | Exibe ou define o nome do host do sistema   | `hostname`<br>`hostname -I`                  | Gerenciamento de Sistema |
+| `sudo`        | Executa comandos com privilégios de administrador | `sudo apt update`<br>`sudo -u user cmd`    | Gerenciamento de Sistema |
+| `ping`        | Testa conectividade com outro host          | `ping google.com`<br>`ping -c 4 8.8.8.8`     | Redes                    |
+| `curl`        | Faz requisições HTTP/HTTPS                  | `curl http://example.com`<br>`curl -O http://file.com/file.txt` | Redes                    |
+| `wget`        | Baixa arquivos da web                       | `wget http://example.com/file`<br>`wget -r http://site.com` | Redes              |
+| `ifconfig`    | Exibe configurações de rede (obsoleto em alguns sistemas) | `ifconfig`<br>`ifconfig eth0`          | Redes                    |
+| `ip`          | Gerencia configurações de rede              | `ip addr`<br>`ip route`                      | Redes                    |
+| `netstat`     | Mostra estatísticas de rede                 | `netstat -tuln`<br>`netstat -i`              | Redes                    |
+| `ssh`         | Conecta a um servidor remoto                | `ssh user@host`<br>`ssh -p 2222 user@host`   | Redes                    |
+| `whois`       | Consulta informações de domínios            | `whois google.com`<br>`whois 8.8.8.8`        | Redes                    |
+| `history`     | Mostra o histórico de comandos              | `history`<br>`history 10`                    | Utilitários              |
+| `man`         | Exibe o manual de um comando                | `man ls`<br>`man 5 passwd`                   | Utilitários              |
+| `echo`        | Exibe texto ou variáveis                    | `echo $PATH`<br>`echo "Hello World"`         | Utilitários              |
+| `clear`       | Limpa a tela do terminal                    | `clear`<br>`/usr/bin/clear`                  | Utilitários              |
+| `alias`       | Cria atalhos para comandos                  | `alias ll='ls -l'`<br>`alias cls='clear'`    | Utilitários              |
 
 ## Referências:
 
