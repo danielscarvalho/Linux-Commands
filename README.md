@@ -88,7 +88,7 @@ A maioria dos sites na Internet, sistemas de e-commerce e CMS (Content Managemen
 
 ## Papéis do Linux
 
-A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e compilado para atender a diversas aplicações:
+A natureza do Linux/UNIX é flexibilidade e sofisticação, pois o SO pode ser configurado e compilado para atender a diversas aplicações:
 
 - Desktop de usuário final
     - Doméstico
@@ -115,7 +115,7 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Servidor de E-Commerce
     - Servidor de E-Mail
     - Servidor de impressão
-    - Servidor de backup
+    - Servidor de backup/restore
     - (S)FTP (Arquivos)
     - Firewall e Antivírus (Segurança)
     - Proxy
