@@ -145,7 +145,7 @@ https://www.zenarmor.com/docs/network-basics/types-of-servers
 
 ### Linux Commands
 
-Lista para iniciantes:
+Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 
 | Comando       | Breve Descrição                              | Exemplo                                      | Categoria                |
 |---------------|----------------------------------------------|----------------------------------------------|--------------------------|
@@ -196,6 +196,7 @@ Lista para iniciantes:
 | `netstat`     | Mostra estatísticas de rede                 | `netstat -tuln`<br>`netstat -i`              | Redes                    |
 | `ssh`         | Conecta a um servidor remoto                | `ssh user@host`<br>`ssh -p 2222 user@host`   | Redes                    |
 | `whois`       | Consulta informações de domínios            | `whois google.com`<br>`whois 8.8.8.8`        | Redes                    |
+| `nslookup`    | Consulta informações de DNS                 | `nslookup google.com`<br>`nslookup 8.8.8.8`  | Redes                    |
 | `history`     | Mostra o histórico de comandos              | `history`<br>`history 10`                    | Utilitários              |
 | `man`         | Exibe o manual de um comando                | `man ls`<br>`man 5 passwd`                   | Utilitários              |
 | `echo`        | Exibe texto ou variáveis                    | `echo $PATH`<br>`echo "Hello World"`         | Utilitários              |
