@@ -110,6 +110,7 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Servidor de E-Commerce
     - Servidor de E-Mail
     - Servidor de impressão
+    - Servidor de backup
     - (S)FTP (Arquivos)
     - Firewall e Antivírus (Segurança)
     - Proxy
