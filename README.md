@@ -95,7 +95,8 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - IA & Machine Learning - Deep Learning (NVIDIA CUDA)
     - Engenharia e Arquitetura (CAD, CAM)
     - Modelagem 3D
-- Robôs (ROS)
+- Router [RouterOS](https://mikrotik.com/software) -  routing, firewall, bandwidth management, wireless access point, backhaul link, hotspot gateway, VPN server, etc
+- Robôs [ROS](https://www.ros.org/)
 - Kiosk
 - ATM (bank machine)
 - IoT (Edge Computing)
@@ -117,6 +118,9 @@ A natureza do Linux/UNIX é flexibilidade, pois o SO pode ser configurado e comp
     - Cluster (Server Farm)
     - PABX
     - Docker
+
+> Linux pode ser instalado em computadores antigos, e também em computadores que não suportam Windows 10 ou Windows 11.<br>
+> Extende-se a vida útil do computador, e pode ser dado também um destino específico como citado anteriormente...
     
 Entre outros...
 
