@@ -6,7 +6,7 @@ Dicas para os alunos de Ciências dos Dados, Ciências da Computação e Engenha
 
 <img src="https://linuxcommand.org/images/Screenshot-Terminal.png" width="600px">
 
-<img src="https://scontent.fcgh8-1.fna.fbcdn.net/v/t39.30808-6/357409759_10160862151779679_2547957449343339613_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5cd70e&_nc_eui2=AeGsPh_FxIGsOl5TqnBElpwiBmz6r4eRC_QGbPqvh5EL9F2E5a4tnzfowDApbs4ez4o&_nc_ohc=PmUiQYrfTOIAX_zFJOU&_nc_ht=scontent.fcgh8-1.fna&oh=00_AfCRi0Vj856cwjArLh90U1RZ4g3SM6JB1wM0qJxOWgEt4A&oe=64A9A67A" width="600px">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649005052591/YY2aPz_V7.png" width="600px">
 
 Porque aprender Linux? 🐧️
 - Para aprender sobre como o computador funciona
