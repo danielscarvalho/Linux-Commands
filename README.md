@@ -216,6 +216,8 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 | `alias`       | Cria atalhos para comandos                  | `alias ll='ls -l'`<br>`alias cls='clear'`    | Utilitários              |
 ## Dicas adicionais:
 
+Alguns comandos úteis do Linux (Bash):
+
 | Comando                              | Explicação                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------|
 | `find . -name "dados.csv"`           | Busca por um arquivo chamado "dados.csv" no diretório atual e subdiretórios. O ponto (`.`) indica o diretório atual como ponto de partida. |
@@ -233,6 +235,9 @@ Lista para iniciantes, feito com a IA LLM do X Grok 3 (beta):
 | `wget -O dados.csv http://example.com/dados.csv` | Baixa o arquivo "dados.csv" de um URL com `wget` e salva com o nome "dados.csv" no diretório atual, usando a opção `-O` para especificar o nome do arquivo de saída. |
 | `curl -s http://api.example.com/data \| grep "status"` | Faz uma requisição HTTP silenciosa (`-s`) com `curl` para um endpoint de API e filtra as linhas que contêm "status" na resposta usando `grep`. |
 | `wget http://example.com/lista.txt && grep -E "\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b" lista.txt` | Baixa um arquivo de texto "lista.txt" com `wget` e usa `grep` com uma expressão regular (`-E`) para listar linhas contendo endereços de e-mail válidos (ex.: "user@domain.com"). |
+| `crontab -e && echo "0 2 * * * /bin/bash /home/user/backup.sh >> /var/log/backup.log 2>&1"` | Abre o editor do CRON (`crontab -e`) e adiciona uma linha para agendar o script "backup.sh" para rodar diariamente às 2h (`0 2 * * *`), redirecionando saída e erros para um log. |
+
+O terminal do Linux (shell Bash) também é uma poderosa linguagem de programação.
 
 ## Referências:
 
