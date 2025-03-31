@@ -22,7 +22,7 @@ Porque aprender Linux? 🐧️
 
 <img src="https://pbs.twimg.com/media/DQB029JVwAALyEu?format=jpg" width="600px">
 
-O RaspberryPi roda Linux, é um computador menor que um cartão de crédito que custa apenas US$ 15.00
+O [RaspberryPi](https://www.raspberrypi.org/) roda [Linux](https://pt.wikipedia.org/wiki/Linux), é um computador menor que um cartão de crédito que custa apenas US$ 15.00
 
 <img src="https://images.prismic.io/rpf-products/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%20ZERO%20W%20ANGLE%202%20REFRESH_.jpg" width="600px">
 
