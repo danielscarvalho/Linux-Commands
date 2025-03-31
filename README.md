@@ -2,6 +2,8 @@
 
 Linux Commands reference: E os mistérios do prompt piscante!
 
+Super poderes (hacker powers) no terminal Linux, Mac e Windows (WLS2 - Ubuntu)
+
 Dicas para os alunos de Ciências dos Dados, Ciências da Computação e Engenharias
 
 <img src="https://linuxcommand.org/images/Screenshot-Terminal.png" width="600px">
@@ -263,10 +265,14 @@ O terminal do Linux (shell Bash) também é uma poderosa linguagem de programaç
 
 ## Inspiração:
 
+- MIT:
+  - Missing Semester: https://www.youtube.com/@MissingSemester
+  - Hacker Tools 2019: https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv
+
 - Linux Complete, by Loren E. Redding: https://a.co/d/39FU3KX
-- https://amigoscode.com/p/linux
-- https://www.youtube.com/watch?v=ZtqBQ68cfJc
-- https://www.shortform.com/best-books/genre/best-unix-books-of-all-time
+- Amigoscode - Linux and Shell Scripting: https://amigoscode.com/p/linux
+- The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners: https://www.youtube.com/watch?v=ZtqBQ68cfJc
+- 100 Best Unix Books of All Time: https://www.shortform.com/best-books/genre/best-unix-books-of-all-time
 
 ## Meme:
 
