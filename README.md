@@ -18,6 +18,8 @@ Porque aprender Linux? 🐧️
 - Para fazer parte de uma comunidade colaborativa, inovadora e conhecer hackers, engenheiros, developers, cientistas, entusiastas, geeks etc...
 - Para conquistar a mulher amada e encontrar o amor verdadeiro!!
 
+> Conhecimento duradouro em computação! Não é um conteúdo volátil que se perde no tempo...
+
 <img src="https://pbs.twimg.com/media/DQB029JVwAALyEu?format=jpg" width="600px">
 
 O RaspberryPi roda Linux, é um computador menor que um cartão de crédito que custa apenas US$ 15.00
