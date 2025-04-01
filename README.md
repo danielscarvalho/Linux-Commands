@@ -70,7 +70,8 @@ Podemos rodar o Linux no PC com Windows:
 - Usando um servidor Linux em nuvem (gratuito ou baixo custo) configurando uma VSP - Virtual Private Server
   - Azure: https://azure.microsoft.com/en-us/free/students/
   - Oracle: https://www.oracle.com/br/cloud/free/
-  - Google: https://cloud.google.com/free?hl=pt-br 
+  - Google: https://cloud.google.com/free?hl=pt-br
+  - AWS: https://aws.amazon.com/pt/free/
 
 > O SO (Sistema Operacional) da Apple ([MacOS](https://www.apple.com/br/macos/ventura/)) é uma derivação do UNIX Free BSD, ou seja, já tem CLI Bash (Terminal) e a estrutura muito parecida com a do Linux, os developers e cientistas de dados usam o Mac aos montes!!
 
@@ -272,7 +273,7 @@ O terminal do Linux (shell Bash) também é uma poderosa linguagem de programaç
   - Hacker Tools 2019: https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv
 
 - IBM:
- - IBM Linux commands shell scripting - https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting
+  - IBM Linux commands shell scripting - https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting
 
 - Linux Complete, by Loren E. Redding: https://a.co/d/39FU3KX
 - Amigoscode - Linux and Shell Scripting: https://amigoscode.com/p/linux
