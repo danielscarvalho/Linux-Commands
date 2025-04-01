@@ -268,8 +268,11 @@ O terminal do Linux (shell Bash) também é uma poderosa linguagem de programaç
 ## Inspiração:
 
 - MIT:
-  - Missing Semester: https://www.youtube.com/@MissingSemester
+  - Missing Semester: https://www.youtube.com/@MissingSemester - https://missing.csail.mit.edu/
   - Hacker Tools 2019: https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv
+
+- IBM:
+ - IBM Linux commands shell scripting - https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting
 
 - Linux Complete, by Loren E. Redding: https://a.co/d/39FU3KX
 - Amigoscode - Linux and Shell Scripting: https://amigoscode.com/p/linux
