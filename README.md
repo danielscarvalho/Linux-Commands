@@ -42,6 +42,10 @@ Oracle ODA X7-2-HA:
 
 <img src="https://www.bsi.uk.com/media/catalog/product/cache/1/image/1280x960/040ec09b1e35df139433887a97daa66f/o/r/oracle_oda_x7.jpg" width="600px">
 
+<p>Ou o Oracle Exadata/Exalogic que também estão disponíveis em nuvem. Usam sistema operacional Linux ou Solaris (UNIX):</p>
+
+<img src="https://www.unixarena.com/wp-content/uploads/2014/11/database-machine-x3-8-Full-Rack.jpg" width="600px">
+
 Outro exemplo de infra com equipamentos Dell, em um data center. Com energia e ar condicionado (21 graus) redundante e sistemas em alta disponibilidade 24x7x365 com 99.982% indisponibilidade (falha) de 1,6 horas ano.
 
 <img src="https://serverius.net/wp-content/uploads/2020/03/rack-colocation-datacenter-data-center-amsterdam-netherlands.png" width="600px">
