@@ -275,6 +275,7 @@ O terminal do Linux (shell Bash) também é uma poderosa linguagem de programaç
 - OMG Ubuntu: https://www.omgubuntu.co.uk/
 - Bash Commands Cheat Sheet (RedHat): https://developers.redhat.com/cheat-sheets/bash-shell-cheat-sheet
 - Linux Commands Cheat Sheet (RedHat): https://developers.redhat.com/cheat-sheets/linux-commands-cheat-sheet-old
+- Pure Bash Bible: https://github.com/dylanaraps/pure-bash-bible
 
 ## Inspiração:
 
