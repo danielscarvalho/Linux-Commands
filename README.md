@@ -266,6 +266,7 @@ O terminal do Linux (shell Bash) também é uma poderosa linguagem de programaç
 ## Referências:
 
 - https://linuxcommand.org/
+- 101 LINUX COMMANDS: https://github.com/bobbyiliev/101-linux-commands
 - The Linux Command Line by William Shotts: https://linuxcommand.org/tlcl.php
 - Shell Script Profissional by Aurelio Marinho Jargas: https://www.shellscript.com.br/
 - Linux commands Notes for Professionals book: https://books.goalkicker.com/LinuxBook/
