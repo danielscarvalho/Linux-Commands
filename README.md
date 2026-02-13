@@ -28,6 +28,9 @@ O [RaspberryPi](https://www.raspberrypi.org/) roda [Linux](https://pt.wikipedia.
 -->
 <img src="https://assets.raspberrypi.com/static/baa879b3517dba32b15141c53221769a/2b8d7/zero2-lifestyle.webp" width="600px">
 
+O Arduino UNO Q tem um chip novo que roda Linux: Linux Debian-capable Qualcomm Dragonwing™ QRB2210 microprocessor (MPU) interconnected with a real-time STM32U585 microcontroller (MCU). Projetos com microcontralador do Artuino + Linux:
+
+<img src="https://arduino.cc/cdn-cgi/image/width=1080,quality=60,format=auto/https://www.datocms-assets.com/150482/1769508787-img.png" width="600px">
 
 O Linux também roda em supercomputadores, e também a computação em nuvem roda sobre o Linux:
 
